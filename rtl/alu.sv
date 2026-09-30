@@ -1,4 +1,4 @@
-// Base-integer ALU (RV32I).
+// Base-integer ALU (RV32I)
 module alu (
   input  logic [31:0] a,
   input  logic [31:0] b,
